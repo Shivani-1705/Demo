@@ -1,0 +1,54 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "empname": "abc",
+      "email": "abc@123.gmail.com",
+      "mobileno": "9066650202",
+      "designation": "testing",
+      "username": "aaa",
+      "password": "aa",
+      "gender": "female"
+    },
+    {
+      "id": 2,
+      "empname": "abd",
+      "email": "abb@123.gmail.com",
+      "mobileno": "9066650202",
+      "designation": "developer",
+      "username": "bbb",
+      "password": "bb",
+      "gender": "female"
+    },
+    {
+      "id": 3,
+      "empname": "mmm",
+      "email": "mmm@gmail.com",
+      "mobileno": "9066650202",
+      "designation": "developer",
+      "username": "mmm1",
+      "password": "mm",
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "empname": "ffff",
+      "email": "a@gmail.com",
+      "mobileno": "3434343434",
+      "designation": "tester",
+      "username": "fff",
+      "password": "123",
+      "gender": "female"
+    },
+    {
+      "id": 5,
+      "empname": "zzz",
+      "email": "z@gmail.com",
+      "mobileno": "9066650202",
+      "designation": "dev",
+      "username": "zzzz",
+      "password": "123",
+      "gender": "male"
+    }
+  ]
+}
